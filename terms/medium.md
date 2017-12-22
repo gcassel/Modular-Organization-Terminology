@@ -1,0 +1,1 @@
+A medium is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which can *hold* and [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md).

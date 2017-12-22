@@ -1,5 +1,10 @@
-"Social" is an adjectival [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) applied to [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) and [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which are identifiably [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to *[interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) between [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.  
+*Social* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) *contains [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) and/or [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md)*.  
 
-The broad domain of social interactions and relationships includes many forms and elements which can be described as *cultural*, *economic* and/or *political*.
+**Synonym(s):** *interpersonal*
+
+**Antonym(s):** *[personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md)*
+
+**Notes:** 
+
+***[Culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economic.md) and [politics](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of social relationship.**
  
-Social forms and elements contrast with [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) forms and elements. 

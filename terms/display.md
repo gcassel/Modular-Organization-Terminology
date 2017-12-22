@@ -1,0 +1,1 @@
+*To display* is to *make an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) clearly visible* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

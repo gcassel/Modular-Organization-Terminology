@@ -1,1 +1,0 @@
-A belief is a *perception* of [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) which an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) *consistently* (i.e, with *stability*) *affirms*.

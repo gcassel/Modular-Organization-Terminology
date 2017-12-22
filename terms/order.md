@@ -1,0 +1,3 @@
+*To order* is *to [relate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* by *arranging them* within a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*.
+
+Order often relates elements along one or more of the [spacetime](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/spacetime.md) dimensions, or *numerically*.
